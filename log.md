@@ -17,3 +17,12 @@ Currently coding Javascript daily on freecodecamp in order to refresh the basics
 
 **Thoughts**
 I actually think it’s funny that you can learn skills to do certain projects, but not learn what to do with the language outside of those particular projects. I’m learning the importance of habit and to keep the skills obtained, constant.
+
+
+**~~~ DAY: 2 - February 18th, 2020 ~~~**
+
+## Today's Progress:
+I am now 54% through the basics of JS section. I have been reading Atomic Habits in hopes to getting at least 1% better each day at coding and be more organized with my time. I have been changing my stickershop branding, and with it, I bought a new domain and set up the email all within 30mins. I may think of a simple website design for it soon. I also made a new repo for these entries to make sure it shows up on my contributions.
+
+**Thoughts**
+Freecodecamp is honestly been the best way for me to re-learn and really understand Javascript. I sometimes re-type the entire problem instead of inserting the minimal answer into the code just to get used to the syntax. 
