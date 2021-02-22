@@ -42,3 +42,11 @@ I've made progress with my voyage team with designing the project. I've also man
 
 **Thoughts**
 I'd love to create a react page for my stickers once I get a grip on JS. Also, I will be looking into AWS and ITIL certifications.
+
+**~~~ DAY: 5 - February 21, 2021 ~~~**
+
+## Today's Progress:
+I actually pulled and pushed to the Voyage team's repo with a good understanding of what's going on. I created a header on my branch without purposely pushing to the master branch so the team could get used to not working on the main/master. I am trucking along with JS at a good 72%.
+
+**Thoughts**
+ I'm actually getting even more closer to the correct answers with little to no assistance for the JS problems, and I'm super proud.
