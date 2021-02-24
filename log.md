@@ -50,3 +50,20 @@ I actually pulled and pushed to the Voyage team's repo with a good understanding
 
 **Thoughts**
  I'm actually getting even more closer to the correct answers with little to no assistance for the JS problems, and I'm super proud.
+ 
+
+ **~~~ DAY: 6 - February 22, 2021 ~~~**
+
+## Today's Progress:
+After reading enough children’s books to visually understand Python further than just reading, I am ready and excited to piece my final project together that will showcase what I know, and what I want to explore (AWS). I started reading through the instructions of the set up for the project and will probably start it before the end of the week. 
+
+**Thoughts**
+I really do think it takes time to let concepts sink in, and it's something natural that can't be rushed. That’s what’s funny about learning; the content will stay the same, but your understanding of it, evolves. With Python in itself, I will re-iterate, that it just doesn’t interest me to continue with it unless sometime in the future, I find it useful for my career. I do see a React Note-Taking app, that I would love to showcase.
+
+**~~~ DAY: 7 - February 23, 2021 ~~~**
+
+## Today's Progress:
+I have been one-tract minding this JS course, and I’m up to 92%. Also, I scanned for jobs in search to find the well of jobs that actually look inviting to apply for. Hopefully, I can get in with a StartUp as my first position and the confidence that I'll gain from future projects, will cut my imposter syndrome off.
+
+**Thoughts**
+My first week into this again and I can say that it is an accomplishment. As a new habit, I can effectively reflect on what’s working and where improvement is needed. As I am learning more about the systems that make teams work together, I can apply certain aspects of them into my own personal life.
