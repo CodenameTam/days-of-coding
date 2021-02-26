@@ -67,3 +67,27 @@ I have been one-tract minding this JS course, and I’m up to 92%. Also, I scann
 
 **Thoughts**
 My first week into this again and I can say that it is an accomplishment. As a new habit, I can effectively reflect on what’s working and where improvement is needed. As I am learning more about the systems that make teams work together, I can apply certain aspects of them into my own personal life.
+
+**~~~ DAY: 8 - February 24, 2021 ~~~**
+
+## Today's Progress:
+Completed 2 more mini lessons on FCC making me at 96%. I had to take more time understanding these problems but, I eventually got the hang of it. Went to Women Who Code's Charlotte virtual event of coffee and chat.
+
+**Thoughts**
+I have taken a break from social media to fully understand JS. I really can't want to start making projects from it. However, I know pacing myself is key.
+
+**~~~ DAY: 9 - February 25, 2021 ~~~**
+
+## Today's Progress:
+Completed the JS Basics module. Drafted ways to design and code my sticker website for fun and addon to current projects.
+
+**Thoughts**
+I feel great that I completed the JS basics. I do feel like I still get confused on concepts, but I know with more practice, I'll become familiar and I'm looking forward to that. I really want to understand the why or "tools" outside of building projects that only teach what "tools" are only needed for that project. So I hope to equip myself with knowing what to do with JS in any given situation.
+
+**~~~ DAY: 10 - February 26, 2021 ~~~**
+
+## Today's Progress:
+Attended a webinar on an AWS certification for a Cloud Practitioner to get more insight on how to become certified. Worked more on my Python project with AWS. Started the ES6 module on FCC
+
+**Thoughts**
+I am really trying to focus on completing one thing at a time. It's so difficult not to have your hands in multiple courses, articles, projects, content, books, etc. at one time. So with keeping focus, I'll do my best to finish the current project and breaking with others. I really want to utilize being at home, and possibly making an online empire whether that's with content, website projects, or selling products.
