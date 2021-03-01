@@ -91,3 +91,19 @@ Attended a webinar on an AWS certification for a Cloud Practitioner to get more 
 
 **Thoughts**
 I am really trying to focus on completing one thing at a time. It's so difficult not to have your hands in multiple courses, articles, projects, content, books, etc. at one time. So with keeping focus, I'll do my best to finish the current project and breaking with others. I really want to utilize being at home, and possibly making an online empire whether that's with content, website projects, or selling products.
+
+**~~~ DAY: 11 - February 27, 2021 ~~~**
+
+## Today's Progress:
+Set up my first static site on AWS for the project. Went over some JS with FCC and looked up the resources to exercise it again.
+
+**Thoughts**
+I think today was preting minimum, but nonetheless meaningful. I'm still feeling good about JS and ready to apple the knowledge. AWS is pretty complex with all of it's services and extras that the average person would be overwhelmed with. Thankful for the tutorials.
+
+**~~~ DAY: 12 - February 28, 2021 ~~~**
+
+## Today's Progress:
+Continued the FCC and AWS. 
+
+**Thoughts**
+I wanted to make today count by putting in some code time before I dozed off to sleep. I just got the greenlight that daycare will be free for another 2mo. giving me the advantage of getting a job from home.
