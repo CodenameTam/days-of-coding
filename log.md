@@ -1,6 +1,6 @@
 
 {DAILY BOILERPLATE} 
-**~~~ DAY:  - February , 2021 ~~~**
+**~~~ DAY:  - March , 2021 ~~~**
 
 ## Today's Progress:
 
@@ -107,3 +107,11 @@ Continued the FCC and AWS.
 
 **Thoughts**
 I wanted to make today count by putting in some code time before I dozed off to sleep. I just got the greenlight that daycare will be free for another 2mo. giving me the advantage of getting a job from home.
+
+**~~~ DAY: 13 - March 1st, 2021 ~~~**
+
+## Today's Progress:
+I continued my project on AWS, and almost finished it but I literally got frustrated because it was mainly about setting up the backend and piecing up the “plug-and-play” information for the front-end, not actually building it. However I do see how intricate AWS is now and for ones that are passionate about backend, that would’ve been fun. But honestly I was understanding it but once something is plugged in wrong, the whole thing can break. So I simply googled python projects (that didn’t involve importing modules) to showcase in my browser for my final project.
+
+**Thoughts**
+I'm ready to be done with Python as a whole. I know that while I try to have an interest for it, I'm even more eager to get back to web development. Not programming. 
