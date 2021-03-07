@@ -108,10 +108,66 @@ Continued the FCC and AWS.
 **Thoughts**
 I wanted to make today count by putting in some code time before I dozed off to sleep. I just got the greenlight that daycare will be free for another 2mo. giving me the advantage of getting a job from home.
 
-**~~~ DAY: 13 - March 1st, 2021 ~~~**
+**~~~ DAY: 13 - March 1, 2021 ~~~**
 
 ## Today's Progress:
 I continued my project on AWS, and almost finished it but I literally got frustrated because it was mainly about setting up the backend and piecing up the “plug-and-play” information for the front-end, not actually building it. However I do see how intricate AWS is now and for ones that are passionate about backend, that would’ve been fun. But honestly I was understanding it but once something is plugged in wrong, the whole thing can break. So I simply googled python projects (that didn’t involve importing modules) to showcase in my browser for my final project.
 
 **Thoughts**
 I'm ready to be done with Python as a whole. I know that while I try to have an interest for it, I'm even more eager to get back to web development. Not programming. 
+
+**~~~ DAY: 14 - March 2, 2021 ~~~**
+
+## Today's Progress:
+Attended the fellowship event about GIT. I asked the question about public repos and “secrets” and “env’s” and the host, had gotten little flustered about diving into the answer, ended up revealing is own computer secrets on accident to further explain. 
+
+I found a project from my Udemy course that could be presented just to simplify the process of finalizing the fellowship.
+
+
+**Thoughts**
+It ended up being an advanced answer/topic, therefore I felt as though it had taken away from the other fellows as maybe something they didn’t understand yet. However, when explaining git to a beginner, I do feel like it was an important topic that maybe could be mentioned, and it’s an honest issue to have with GIT, but maybe not for that particular lecture.
+
+In the process of finding a simple project with no modules, my love/hate relationship with Python continues. Ultimately, I wanted to understand exactly what part “programming” plays in a world of front-end and I’m still content on front and backend development with Javascript. But thinking of programming, makes me cringe thinking of the misery.
+
+**~~~ DAY: 15 - March 3, 2021 ~~~**
+
+## Today's Progress:
+Gathered the resources I needed to present something nice. Also figuring out what technologies will be the most convenient.
+
+**Thoughts**
+I’m finding that if a time takes too long to complete, there is a shorter way to go about it if you know where to look. I ended up just using the original program on Repl.It and not a live server due to putting in a time for it to run
+
+**~~~ DAY: 16 - March 4, 2021 ~~~**
+
+## Today's Progress:
+Created presentation and form of Demonstrating
+
+**Thoughts**
+I am getting so used to my own execution method of not waiting until the last minute, but maybe the last day. I do perform better with pressure and I know the time it takes something, to give myself that “almost” last minute time. I literally did the presentation (from hunting down a good design), googled how to mirror my phone, made sure the details were detailed, for everything to run smoothly. 
+
+The actual presenting was basically everyone observing how you present, what’s on their screen, and how you’re handling your nerves (whether they cared about the actual project is unknown lol). I know I wanted to impress with the presentation itself, hit my speaking points, get it working, and not extend the attention spans of the audience.
+
+**~~~ DAY: 17 - March 5, 2021 ~~~**
+
+## Today's Progress:
+Started the Take Home Test, Talked to my mentor
+**Thoughts**
+Designing the code was pretty challenging but the fact that you have to break it down to a computer is what helps you break the problem down. So I’ve spent most of the day researching, going through my coding books and finding what applies to this project, given I haven’t used some of these elements in a while.
+
+Now that the fellowship has ended, my mentor gladly extended an invitation to continue meeting/talking and I couldn’t be happier. Our talk today was thorough as always, and he even helped me with the group project. He is at a sensei level of resourceful, and I do understand that it’s what coding needs. He complimented me on my presentation design and demo so I’m an excited mentee. I feel like a chick that has hatched and ready to leave the nest and show what I’ve got from the “nourishment” from how this has helped me. Tech is getting simpler by the day in terms of what it takes.
+
+**~~~ DAY: 18 - March 6, 2021 ~~~**
+
+## Today's Progress:
+Finished the Take Home Test and submitted my first a pull request.
+
+**Thoughts**
+Whether I even get considered for the position or not, I’m so proud of myself that I completed this project. I’ve discovered so much with my work flow, digging for answers, and creating a seamless project. Github is such an interesting place and it makes me excited how expansive the entire web is. The project was tough. I used ES6 and now want to learn more. So I will continue with my FCC module. I had so much fun with the styling and to get it perfect, along with the code itself. It is really what I love to do.
+
+**~~~ DAY: 19 - March 7, 2021 ~~~**
+
+## Today's Progress:
+Continue with both the LinkedIn Course Freecodecamp to explore more of ES6. Focus more on it during the week.
+
+**Thoughts**
+I’m super excited to feel actually comfortable about learning now and not pressured. I’m seeing that the time it takes to truly get familiar, is vital. So is the habit of practicing. Finishing up the Voyage and thinking about another one or applying to Collab Lab. I really love collaborating and using GitHub in this way. I’ll be planning my week to get some more things done.
